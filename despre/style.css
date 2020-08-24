@@ -1,0 +1,236 @@
+
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background-color:black;
+}
+
+
+.header {
+
+  text-align: center;
+  background:black;
+  color: white;
+}
+
+
+
+.header h1 {
+  font-size: 40px;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color:black;
+  top: 0; 
+  width: 100%; 
+}
+
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a.right {
+  float: right;
+}
+
+
+.navbar a:hover {
+  background-color:#ab0055;
+  color:white;
+}
+
+.row {  
+  display:-ms-flexbox; 
+  display: flex;
+  -ms-flex-wrap: wrap; 
+  flex-wrap: wrap;
+}
+
+
+.side {
+  -ms-flex: 30%; 
+  flex: 30%;
+  background-color:#620031;
+  padding: 20px;
+}
+
+
+.main {   
+  -ms-flex: 70%; 
+  flex: 70%;
+  background-color:black;
+  padding: 20px;
+}
+
+
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
+
+
+@media screen and (max-width: 700px) {
+  .row {   
+    flex-direction: column;
+  }
+}
+
+
+@media screen and (max-width: 400px) {
+  .navbar a {
+    float: none;
+    width: 100%;
+  }
+}
+
+#footer {
+	margin: 0;
+	padding: 0;
+	width: auto;
+}
+#footer .connect {
+	background-color: #a3a3a3;
+	margin: 0;
+	min-height: 84px;
+	overflow: hidden;
+	padding: 0;
+	width: auto;
+}
+#footer .connect div {
+	margin: 0 auto;
+	max-width: 960px;
+	overflow: hidden;
+	padding: 24px 0 0;
+}
+#footer .connect div h1 {
+	color: #FFFFFF;
+	float: left;
+	font-family: audiowide-regular-webfont;
+	font-size: 23px;
+	font-weight: normal;
+	line-height: 23px;
+	margin: 0;
+	padding: 8px 25px 0 0;
+	text-align: right;
+	text-transform: uppercase;
+	width: 525px;
+}
+#footer .connect div div {
+	float: left;
+	margin: 0;
+	overflow: hidden;
+	padding: 0 0 0 20px;
+	width: 380px;
+}
+#footer .connect div div a {
+	background: url(../images/icons.png) no-repeat;
+	display: block;
+	float: left;
+	height: 36px;
+	margin: 0;
+	padding: 0;
+	text-indent: -99999px;
+	width: 18px;
+}
+#footer .connect div div a.facebook {
+	background-position: 0 0;
+	margin: 0 0 0 16px;
+	width: 18px;
+}
+#footer .connect div div a.twitter {
+	background-position: 0 -114px;
+	margin: 0 0 0 28px;
+	width: 44px;
+}
+#footer .connect div div a.googleplus {
+	background-position: 0 -38px;
+	margin: 0 0 0 27px;
+	width: 37px;
+}
+#footer .connect div div a.pinterest {
+	background-position: 0 -76px;
+	margin: 0 0 0 29px;
+	width: 30px;
+}
+#footer .connect div div a.facebook:hover {
+	background-position: -20px 0;
+}
+#footer .connect div div a.twitter:hover {
+	background-position: -46px -114px;
+}
+#footer .connect div div a.googleplus:hover {
+	background-position: -38px -38px;
+}
+#footer .connect div div a.pinterest:hover {
+	background-position: -32px -76px;
+}
+#footer .footnote {
+	background-color: #FFFFFF;
+	margin: 0;
+	min-height: 84px;
+	overflow: hidden;
+	padding: 0;
+	width: auto;
+}
+#footer .footnote div {
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 34px 0 0;
+	width: 960px;
+}
+#footer .footnote div p {
+	color: #000000;
+	display: block;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+	width: 940px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:black;
+  margin:45;
+  padding:20;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ab000b;
+  color:white;
+}
+
+.topnav a.active {
+  color:#a3a3a3;
+}
