@@ -5,7 +5,8 @@ body {
 	width: auto;
 }
 body #page {
-	background: url("../characters/bg-home.jpg") no-repeat scroll center top #000000;
+	/*background: url("../characters/bg-home.jpg") no-repeat scroll center top #000000*/;
+	background-color:   #2eb8b8;
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
