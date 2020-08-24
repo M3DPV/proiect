@@ -5,8 +5,7 @@ body {
 	width: auto;
 }
 body #page {
-	/*background: url("../characters/bg-home.jpg") no-repeat scroll center top #000000*/;
-	background-color:   #2eb8b8;
+	background-image: linear-gradient(to right, #000000, #66ff66, #00ffff, #cc99ff, #ff1aff, #ff80d5, #000000);
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
@@ -51,7 +50,7 @@ img {
 	display: block;
 	float: left;
 	height: 60px;
-	margin: 0 44px 0 0;
+	margin: 0;
 	padding: 0;
 	width: 304px;
 }
@@ -224,7 +223,7 @@ body.about .header div, #body .header div {
 }
 #body .header div .sidebar ul li a img {
 	cursor: pointer;
-	filter: alpha(opacity=100);/* Needed for IE8 and old versions */
+	filter: alpha(opacity=100);
 	opacity: 1.0;
 	display: block;
 	margin: 0;
@@ -232,7 +231,7 @@ body.about .header div, #body .header div {
 	width: auto;
 }
 #body .header div .sidebar ul li a img:hover {
-	filter: alpha(opacity=70);/* Needed for IE8 and old versions */
+	filter: alpha(opacity=70);
 	opacity: 0.7;
 }
 #body .header div .sidebar ul li h2 {
@@ -287,7 +286,7 @@ body.about .header div, #body .header div {
 }
 #body .header div .sidebar ul li ul li a img {
 	cursor: pointer;
-	filter: alpha(opacity=100);/* Needed for IE8 and old versions */
+	filter: alpha(opacity=100);
 	opacity: 1.0;
 	display: block;
 	margin: 0;
@@ -295,7 +294,7 @@ body.about .header div, #body .header div {
 	width: auto;
 }
 #body .header div .sidebar ul li ul li a img:hover {
-	filter: alpha(opacity=70);/* Needed for IE8 and old versions */
+	filter: alpha(opacity=70);
 	opacity: 0.7;
 }
 #body .header div .sidebar ul li ul li h2 {
