@@ -5,7 +5,7 @@ body {
 	width: auto;
 }
 body #page {
-	background: url("../images/bg-home.jpg") no-repeat scroll center top #000000;
+	background: url("../characters/bg-home.jpg") no-repeat scroll center top #000000;
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
@@ -34,7 +34,7 @@ img {
 /*----------------------------------------header-styles---------------------------------------*/
 
 #header {
-	background: url(../images/bg-transparent1.png) repeat;
+	background: url(../characters/bg-transparent1.png) repeat;
 	margin: 0;
 	min-height: 100px;
 	padding: 0;
@@ -90,7 +90,7 @@ img {
 	width: auto;
 }
 #header div ul li a:hover {
-	background-color: #620031;
+	background-color: #ccccff;
 	color: #ffffff;
 }
 #header div ul li.selected a {
@@ -129,7 +129,7 @@ img {
 	width: auto;
 }
 #header div ul li.menu ul li a {
-	background-color: #620031;
+	background-color: #9999ff;
 	color: #ffffff;
 	display: block;
 	font-family: Arial;
@@ -151,7 +151,7 @@ img {
 /*----------------------------------------body-style------------------------------------------*/
 
 #body {
-	background-color: #000000;
+	background-color:   #000000;
 	margin: 0;
 	min-height: 808px;
 	overflow: hidden;
@@ -165,7 +165,7 @@ body.about .header div, #body .header div {
 	padding: 65px 0 40px;
 }
 #body.about .header div h1, #body .header div h1 {
-	color: #FFFFFF;
+	color:  #cceeff;
 	display: block;
 	font-family: audiowide-regular-webfont;
 	font-size: 36px;
@@ -381,7 +381,7 @@ body.about .header div, #body .header div {
 	width: 520px;
 }
 #body .header div ul li div h1 {
-	color: #A3A3A3;
+	color:  #cceeff;
 	font-family: audiowide-regular-webfont;
 	font-size: 23px;
 	font-weight: normal;
@@ -421,8 +421,8 @@ body.about .header div, #body .header div {
 	color: #a3a3a3;
 }
 #body .header div ul li div a.more {
-	background-color: #3c0f38;
-	color: #ffffff;
+	background-color: #b3b3ff;
+	color: #000080;
 	display: block;
 	float: right;
 	font-family: Arial;
@@ -437,7 +437,7 @@ body.about .header div, #body .header div {
 	width: 120px;
 }
 #body .header div ul li div a.more:hover {
-	background-color: #620031;
+	background-color: #ccccff;
 }
 #body .header div img {
 	display: block;
@@ -682,7 +682,7 @@ body.about .header div, #body .header div {
 	width: 380px;
 }
 #footer .connect div div a {
-	background: url(../images/icons.png) no-repeat;
+	background: url(../characters/icons.png) no-repeat;
 	display: block;
 	float: left;
 	height: 36px;
