@@ -1,0 +1,221 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* Inceput */
+body
+{
+	background-color: #031252;
+}
+header
+{
+	background-color: #323ea8;
+	height:130px;
+	width:100%;
+}
+header img
+{
+	margin-top: 10px;
+	float:left;
+}
+.container
+{
+	width: 1000px;
+	margin:0 auto;
+}
+.meni
+ {background-color: #323ea8;
+	color:#8e32a8;
+	padding: 16px;
+	font-size: 16px;
+	border: none;
+ }
+.meniu
+{ position: relative;
+	display: inline-block;
+float: left;
+}
+.meniu-content
+{
+	display: none;
+	position: absolute;
+	background-color: blue;
+	min-width: 360px;
+	z-index: 1;
+}
+.meniu-content a
+{
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+.meniu-content a:hover {background-color: #ddd;}
+
+.meniu:hover .meniu-content {display: block;}
+
+.meniu:hover .meni {background-color: gray;}
+
+
+.info
+{
+	background-color:#32a89c;
+}
+.info h2
+{
+	text-align: center;
+	padding:5px 10px;
+	font-weight:600;
+	font-size:20px;
+	font-family:'Lexend Peta', sans-serif;;
+}
+.info p
+{padding:5px 10px;
+	font-weight:300;
+	font-size:35px;
+	font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.articole
+{
+
+	background-color:#bc3845;
+	padding:30px 0px;
+	overflow: hidden;
+	
+}
+.imgart img
+{
+	height:150px;
+	width:100%;
+}
+.articole article 
+{padding:10px 20px;
+	width:30%;
+	background-color:#a8323e;
+	float:left;
+	padding:0px 10px;
+}
+.articole article h2
+{text-align: center;
+	padding:5px 10px;
+	font-weight:600;
+	font-size:30px;
+	font-family:'Yanone Kaffeesatz', sans-serif;
+}
+.articole article p
+{padding:5px 20px;
+	padding:10px 10px;
+	font-weight:600;
+	font-size:20px;
+	font-family:'Lato', sans-serif;
+}
+.articole2
+{width:100%;
+background-color:#3ea832;
+padding:30px 0px;
+	overflow: hidden;
+
+}
+.articole2 article
+{background-color:#45bc38;
+float:left;
+width:20%;
+padding:10px 15px;
+
+}
+.foto img
+{width:230px;
+	height:190px;
+	padding:10px 0px;
+}
+.articole2 article h2
+{
+	text-align:center;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size:34px;
+	color:orangered;
+}
+.articole2 article ul li
+{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size:15px;
+	padding:5px 0px;
+}
+.articole3
+{width:100%;
+	background-color:#6332ab;
+	padding:30px 0px;
+		overflow: hidden;
+
+}
+.articole3 h1
+{padding:30px 0px;
+font-size:25px;
+text-align: center;
+}
+.articole3 article
+{width:23%;
+	background-color:#6e38bf;
+	padding:10px 10px;
+	float:left;
+
+}
+.articole3 article h2
+{
+	font-family:'Yanone Kaffeesatz', sans-serif;
+	padding:5px 5px;
+	font-size:30px;
+}
+footer
+{
+	width:100%;
+	background-color:grey;
+	padding:50px 0px;
+}
+
+footer h1
+{text-align:center;
+	font-size:30px;
+font-family:30px;
+text-decoration:underline;
+}
