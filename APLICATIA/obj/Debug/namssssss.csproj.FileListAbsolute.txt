@@ -1,0 +1,13 @@
+C:\Users\Botnaru\source\repos\namssssss\namssssss\bin\Debug\namssssss.exe.config
+C:\Users\Botnaru\source\repos\namssssss\namssssss\bin\Debug\namssssss.exe
+C:\Users\Botnaru\source\repos\namssssss\namssssss\bin\Debug\namssssss.pdb
+C:\Users\Botnaru\source\repos\namssssss\namssssss\obj\Debug\namssssss.despre.resources
+C:\Users\Botnaru\source\repos\namssssss\namssssss\obj\Debug\namssssss.Form1.resources
+C:\Users\Botnaru\source\repos\namssssss\namssssss\obj\Debug\namssssss.Properties.Resources.resources
+C:\Users\Botnaru\source\repos\namssssss\namssssss\obj\Debug\namssssss.csproj.GenerateResource.cache
+C:\Users\Botnaru\source\repos\namssssss\namssssss\obj\Debug\namssssss.csproj.CoreCompileInputs.cache
+C:\Users\Botnaru\source\repos\namssssss\namssssss\obj\Debug\namssssss.exe
+C:\Users\Botnaru\source\repos\namssssss\namssssss\obj\Debug\namssssss.pdb
+C:\Users\Botnaru\source\repos\namssssss\namssssss\obj\Debug\namssssss.Contacte.resources
+C:\Users\Botnaru\source\repos\namssssss\namssssss\obj\Debug\namssssss.proiecte.resources
+C:\Users\Botnaru\source\repos\namssssss\namssssss\obj\Debug\namssssss.Utilizari.resources

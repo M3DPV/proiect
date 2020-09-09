@@ -1,0 +1,45 @@
+C:\Users\HP\Desktop\application\bin\Debug\namssssss.exe.config
+C:\Users\HP\Desktop\application\bin\Debug\namssssss.exe
+C:\Users\HP\Desktop\application\bin\Debug\namssssss.pdb
+C:\Users\HP\Desktop\application\obj\Debug\application.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\application\obj\Debug\namssssss.Contacte.resources
+C:\Users\HP\Desktop\application\obj\Debug\namssssss.despre.resources
+C:\Users\HP\Desktop\application\obj\Debug\namssssss.Form1.resources
+C:\Users\HP\Desktop\application\obj\Debug\namssssss.proiecte.resources
+C:\Users\HP\Desktop\application\obj\Debug\namssssss.Properties.Resources.resources
+C:\Users\HP\Desktop\application\obj\Debug\namssssss.Utilizari.resources
+C:\Users\HP\Desktop\application\obj\Debug\application.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\application\obj\Debug\application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\application\obj\Debug\namssssss.exe
+C:\Users\HP\Desktop\application\obj\Debug\namssssss.pdb
+C:\Users\HP\Desktop\application\obj\Debug\namssssss.CONTACT.resources
+C:\Users\HP\Desktop\application - Copy\bin\Debug\namssssss.exe.config
+C:\Users\HP\Desktop\application - Copy\bin\Debug\namssssss.exe
+C:\Users\HP\Desktop\application - Copy\bin\Debug\namssssss.pdb
+C:\Users\HP\Desktop\application - Copy\obj\Debug\application.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\application - Copy\obj\Debug\namssssss.CONTACT.resources
+C:\Users\HP\Desktop\application - Copy\obj\Debug\namssssss.Contacte.resources
+C:\Users\HP\Desktop\application - Copy\obj\Debug\namssssss.despre.resources
+C:\Users\HP\Desktop\application - Copy\obj\Debug\namssssss.Form1.resources
+C:\Users\HP\Desktop\application - Copy\obj\Debug\namssssss.proiecte.resources
+C:\Users\HP\Desktop\application - Copy\obj\Debug\namssssss.Properties.Resources.resources
+C:\Users\HP\Desktop\application - Copy\obj\Debug\namssssss.Utilizari.resources
+C:\Users\HP\Desktop\application - Copy\obj\Debug\application.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\application - Copy\obj\Debug\application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\application - Copy\obj\Debug\namssssss.exe
+C:\Users\HP\Desktop\application - Copy\obj\Debug\namssssss.pdb
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\application.csprojAssemblyReference.cache
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\namssssss.CONTACT.resources
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\namssssss.Contacte.resources
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\namssssss.despre.resources
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\namssssss.Form1.resources
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\namssssss.proiecte.resources
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\namssssss.Utilizari.resources
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\application.csproj.GenerateResource.cache
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\application.csproj.CoreCompileInputs.cache
+C:\Users\Ramona\Desktop\application mara - Copy\bin\Debug\Modelare3D.exe.config
+C:\Users\Ramona\Desktop\application mara - Copy\bin\Debug\Modelare3D.exe
+C:\Users\Ramona\Desktop\application mara - Copy\bin\Debug\Modelare3D.pdb
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\Modelare3D.Properties.Resources.resources
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\Modelare3D.exe
+C:\Users\Ramona\Desktop\application mara - Copy\obj\Debug\Modelare3D.pdb
